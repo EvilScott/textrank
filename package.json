@@ -1,0 +1,12 @@
+{
+  "name": "textrank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "EvilScott <reis.robert.s@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "natural": "^0.6.2",
+    "stopword": "^0.1.13",
+    "vectorious": "^4.8.5"
+  }
+}
